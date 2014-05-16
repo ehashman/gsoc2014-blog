@@ -1,0 +1,8 @@
+.ssh_settings
+bin
+content/images
+include
+lib
+local
+output
+*.pyc
