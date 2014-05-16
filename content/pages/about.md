@@ -1,8 +1,6 @@
 Title: About
 Date: 2014-05-05 12:00
 Category: posts
-Tags: gsoc, openhatch
-Slug: about
 Author: Elana Hashman
 Summary: An introductory post to my Google Summer of Code Blog.
 
@@ -16,18 +14,26 @@ topics course **CS 499R: FOSS Contributions**. Here I'll provide a quick
 The scope of this project is to provide a tool to event organizers that will 
 allow them to more easily assemble a "hot list" of bugs for a particular event.
 
+<img alt="OpenHatch's mascot, Sufjan" src="../images/Sufjan.png" 
+style="max-width: 10em" />
+
 ## Why OpenHatch? ##
 
-OpenHatch is a project dedicated to introducing newbies to open source software 
-and culture. We achieve this through outreach, events, and our website, a large 
-source of aggregated bugs from projects across the web.
+[OpenHatch](http://openhatch.org) is a project dedicated to introducing newbies 
+to open source software and culture. We achieve this through outreach, events, 
+and our website, which serves training missions and a large source of 
+aggregated bugs from projects across the web.
 
-Right now, the process for creating a set of bugs to share at an event involves 
-a spreadsheet and some laborious searching of our database. We might share 
-issues with event attendees using a Google Doc or MoPad. But this process is 
-labor-intensive, does not scale, and is not user-friendly. If OpenHatch could 
-streamline this process, perhaps we could offer this more accessible tool to 
-anyone that wants to organize a sprint.
+At our [events](http://campus.openhatch.org/), we help beginners get started in 
+open source by guiding them towards resources and training that will allow them 
+to apply their skills. Often, we'll have a set of bugs prepared for the 
+attendees to work on, selected for their difficulty, required skills, time to 
+complete, etc. Right now, the process for creating a set of bugs to share at 
+an event involves a spreadsheet and some laborious searching of our database. 
+We might share issues with event attendees using a Google Doc or MoPad. But 
+this process is labor-intensive, does not scale, and is not user-friendly. If 
+OpenHatch could streamline this process, perhaps we could offer this more 
+accessible tool to anyone that wants to organize a sprint.
 
 ## Why me? ##
 
@@ -51,9 +57,12 @@ Here are some possible links of interest for those following my project.
 ## Project documentation ##
 + [Official Google Summer of Code Page](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/ehashman/5649050225344512)
 + [OpenHatch Wiki Project Documentation](https://openhatch.org/wiki/GSoC_2014/bug-set-creator)
-+ [My blog page](http://hashman.ca/gsoc/)
 + [Meta-issue on OpenHatch Roundup Tracker](http://openhatch.org/bugs/issue978)
++ [My blog](http://hashman.ca/gsoc/)
 
 ## Communication ##
-+ [gsoc-2014 OpenHatch Mailing List](http://lists.openhatch.org/mailman/listinfo/gsoc-2014)
-+ [#openhatch-gsoc](irc://chat.freenode.net/openhatch-gsoc) on Freenode
++ [gsoc-2014 OpenHatch Mailing 
+List](http://lists.openhatch.org/mailman/listinfo/gsoc-2014): OpenHatch mailing 
+list for non-ephemeral communication for this project
++ [#openhatch-gsoc](irc://chat.freenode.net/openhatch-gsoc) on Freenode: IRC 
+channel for ephemeral communication about the project

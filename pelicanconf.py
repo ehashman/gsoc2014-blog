@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Elana Hashman'
 SITENAME = u'Google Summer of Code 2014 Blog'
-SITEURL = '/home/elana/pelican/output'
+SITEURL = '/users/ehashman/pelican/output'
 
 TIMEZONE = 'US/Eastern'
 
