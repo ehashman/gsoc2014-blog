@@ -7,6 +7,6 @@
     {% if not HIDE_DATE %}<time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>{% endif %}
 </header>
 <article>
-    {{ article.content }}
+    {{ article.content }}{% include "comments.html" %}
 </article>
 {% endblock %}

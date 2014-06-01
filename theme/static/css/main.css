@@ -143,6 +143,11 @@ header a#page-title {
 #article-list {
   margin-top: 100px;
 }
+
+.comments {
+  margin-top: 50px;
+}
+
 /* line 114, ../../compass/src/main.scss */
 #article-list ol li {
   line-height: 1.2em;
