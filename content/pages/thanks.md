@@ -16,3 +16,4 @@ with my project.
 + **Terri Oda** and **Florian Fuchs**: Python Software Foundation GSoC admins
 + **Shauna Gordon-McKeon**: current OpenHatch overlord, user requirements, 
 backup mentor
++ **Catherine Devlin** and **Jessica McKellar**: user requirements feedback
