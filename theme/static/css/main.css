@@ -177,3 +177,7 @@ footer li {
 footer p {
   text-align: right;
 }
+.highlight pre {
+  margin: 0 auto;
+  width: 13em;
+}
