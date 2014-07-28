@@ -17,3 +17,4 @@ with my project.
 + **Shauna Gordon-McKeon**: current OpenHatch overlord, user requirements, 
 backup mentor
 + **Catherine Devlin** and **Jessica McKellar**: user requirements feedback
++ **Rachelle Saunders**: front-end first aid and CSS saviour
